@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagens/icon.svg</file>
+        <file>imagens/icon2.ico</file>
+        <file>imagens/icon3.ico</file>
+        <file>imagens/icon8.ico</file>
+        <file>imagens/icon7.ico</file>
+        <file>imagens/icon6.ico</file>
+        <file>imagens/icon5.ico</file>
+        <file>imagens/icon4.ico</file>
+        <file>imagens/icon9.ico</file>
+        <file>imagens/icon10.ico</file>
+        <file>imagens/fundo.png</file>
+    </qresource>
+</RCC>
