@@ -1,5 +1,5 @@
 # TimeOfStudy
-![Interface principal de TimeOfStudy](https://github.com/Leumim2020/AppTimeOfStudy_Versao1/blob/master/UItimeofstudy.png)
+<p align="center"><img src="https://github.com/Leumim2020/AppTimeOfStudy_Versao1/blob/master/UItimeofstudy.png"/></p>
 
 **Instalador https://drive.google.com/file/d/12yWMFkSsIKaORo8pZGQmiuhTHfkommuC/view
 
