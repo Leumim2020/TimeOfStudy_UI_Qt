@@ -1,10 +1,9 @@
-# TimeOfStudy
+# Time Of Study
 <p align="center"><img src="https://github.com/Leumim2020/AppTimeOfStudy_Versao1/blob/master/UItimeofstudy.png"/></p>
 
-**Instalador https://drive.google.com/file/d/12yWMFkSsIKaORo8pZGQmiuhTHfkommuC/view
+**Installer https://drive.google.com/file/d/12yWMFkSsIKaORo8pZGQmiuhTHfkommuC/view
 
-Olá! Meu nome é Léo. Estou estudando a plataforma Qt Creator com objectivo de criar um programa para temporização dos estudos o mesmo permitirá que o usuário 
-escolha um arquivo de mídia em particular um arquivo .mp3 que irá despertá-lo quando seu tempo de estudo acabar. 
-Também permite que o usuário insira lembretes ou mensagens de textos quando o tempo de estudo terminar o que pode ser facultativo.
-E tudo isso baseado na linguagem c++.
+Created in QtCreator with the C++ language aims to create a program for timing the studies the same will allow the user 
+choose a particular media file a .mp3 file that will wake you up when your study time is up. 
+It also allows the user to enter reminders or text messages when the study time is over which may be optional.
 
